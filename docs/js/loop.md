@@ -119,7 +119,7 @@ for (var prop of obj) {
 ```js
 Uncaught TypeError: obj is not iterable
 ```
-:::tip 
+::: tip 
 반복 가능하지 않은 객체에 대한 반복문 접근 에러에 대해서는 [이 자료](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Errors/is_not_iterable)를 참고하여 해결할 수 있습니다. 
 :::
 
